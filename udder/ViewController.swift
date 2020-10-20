@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-
+    func killmenow () {
+        print("something that you want to kill")
+    }
 }
 
